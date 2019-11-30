@@ -1,0 +1,24 @@
+{
+  "name": "pdf2image",
+  "version": "1.0.0",
+  "description": "A nodejs library to convert pdf pages to image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash0212/pdf2image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash0212/pdf2image/issues"
+  },
+  "homepage": "https://github.com/yash0212/pdf2image#readme",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "jimp": "^0.9.3",
+    "zlib": "^1.0.5"
+  }
+}
